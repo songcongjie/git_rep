@@ -1,1 +1,2 @@
 this is my first git rep
+now i modified git rep for first time
